@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[cthd]]></title>
         <description><![CDATA[cthd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cthd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 07:50:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 07:54:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cthd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Beerfest 2014 -good times had by many. Without actually viewing the photo, it's hard to recant specific memories since without reference, all years blend together. It's hard to tell which year it was when Dustin told the cop who was simply being friendly by asking which department a friend of Dustin's belonged to, "I don't know -planet earth?" Then there was the time when we stumbled out the back entrance to the hall, into the park, into an unsuspecting family's picnic. Regardless of the year in question, one thing is always certain, fun is had by many.</p>]]></description>
-            <link>undefineda7ea9b8a-e5e0-4f19-99a6-6f39effbbece/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bdd6e7f-b0fb-4389-aa5a-38f0c4439cca.JPG">]]></description>
+            <link>https://thegrid.ai/cthd/a7ea9b8a-e5e0-4f19-99a6-6f39effbbece/index.html</link>
             <guid isPermaLink="false">a7ea9b8a-e5e0-4f19-99a6-6f39effbbece</guid>
-            <pubDate>Sat, 06 Feb 2016 07:50:09 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 07:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
