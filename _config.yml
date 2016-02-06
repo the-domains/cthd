@@ -1,0 +1,28 @@
+name: cthd
+favicon: null
+layout_spectrum: 0.3123933367896825
+typography_spectrum: 0.4545826353132725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5284942963626236
+  lightness: 0.19087931490503252
+  saturation: 0.9549358589574695
+  rhythmicContrast: 0.4075476201251149
+purpose: []
